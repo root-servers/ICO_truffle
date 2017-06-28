@@ -46,7 +46,8 @@
     "webpack": "1.14.0",
     "webpack-dev-server": "1.16.2",
     "webpack-manifest-plugin": "1.1.0",
-    "whatwg-fetch": "1.0.0"
+    "whatwg-fetch": "1.0.0",
+    "zeppelin-solidity": "git://github.com/OpenZeppelin/zeppelin-solidity.git#312220fe6387790990a158b79df6f46543caeec5"
   },
   "dependencies": {
     "dotenv": "^2.0.0",
